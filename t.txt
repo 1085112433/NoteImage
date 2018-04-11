@@ -1,2 +1,5 @@
-git commit --amend
+
 master update
+=======
+testing edit
+
